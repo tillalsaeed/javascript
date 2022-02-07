@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Object Literal</title>
+    <script>
+        let name = "Saeed";
+        let course = "BBA";
+
+        let obj = {
+            [name + "a"]: 'Waqas Saeed',
+            course,
+            detail() {
+                return `${this.Saeeda} is student of ${this.course}`
+            }
+        }
+
+        console.log(obj['detail']());
+
+        let lname = "Saeed";
+        let fname = 'Tillal';
+        let edu = "BBA";
+        function student(fname, lname, edu) {
+            let fullName = `${fname} ${lname}`;
+
+            return {
+                fullName,
+                edu
+            }
+
+        }
+        let s = student(fname, lname, edu);
+        console.log(s.fullName);
+        console.log(s.edu);
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

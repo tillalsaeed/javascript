@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Iterartion Html</title>
+    <script>
+        let numbers = [10, 20, 30, 50];
+        // let str = 'Yahoo Baba';
+        // let iters = str[Symbol.iterator]();
+        // let result = iters.next();
+        // while (!result.done) {
+        //     console.log(result.value);
+        //     result = iters.next();
+        // }
+
+        // for (let char of str) {
+        //     console.log(char);
+        // }
+        function numberIteration(arr) {
+            var nexNum = 0;
+            return {
+                next() {
+                    if (nexNum < arr.length) {
+                        return {
+
+
+
+                            value: arr[nexNum++],
+                            done: false
+                        }
+                    } else {
+                        return {
+                            value: arr[nexNum++],
+                            done: true
+                        }
+
+                    }
+                }
+            }
+        }
+
+        let num = numberIteration(numbers);
+        console.log(num.next());
+        console.log(num.next());
+        console.log(num.next());
+        console.log(num.next());
+        console.log(num.next());
+
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

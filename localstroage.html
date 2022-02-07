@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>LocalStroage</title>
+    <script>
+        window.onload = function () {
+            let submits = document.querySelector(".submitBn");
+            let arr = [];
+            let data = document.querySelector('.data');
+
+            submits.addEventListener('click', function (e) {
+                let name = document.querySelector(".username").value;;
+
+
+                arr.push(name);
+                e.preventDefault();
+                console.log(arr);
+
+                let nameData = localStorage.setItem('data', JSON.stringify(arr));
+                let dataDetails = JSON.parse(localStorage.getItem('data'));
+
+                console.log(dataDetails);
+
+            });
+
+
+
+
+        };
+
+    </script>
+</head>
+
+<body>
+    <form action="#" method="POST">
+        <input class="username" type="text" placeholder="Username">
+        <input class="submitBn" type="submit" value="Submit">
+
+    </form>
+    <div class="data"></div>
+
+</body>
+
+</html>

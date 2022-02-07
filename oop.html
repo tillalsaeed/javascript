@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>OOP</title>
+    <script>
+        class helloWorld {
+            constructor(name, age, sex) {
+
+                this.name = name;
+                this.age = age;
+                this.sex = sex;
+
+                this.sayHello();
+
+            }
+            sayHello() {
+                console.log('Welcome to First OOP Message');
+                console.log(`Hello My Name is ${this.name} and my Age is ${this.age} and i am a ${this.sex}`);
+            }
+
+            static HelloFriends() {
+                console.log('Static Method');
+            }
+
+        }
+
+        // Create an Object
+        let greetings = new helloWorld('Tillal Saeed', 34, 'Male');
+        let greetingsB = new helloWorld('Waqas', 42, 'Male');
+        helloWorld.HelloFriends();
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

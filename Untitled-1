@@ -1,0 +1,313 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Welcome to OMNESmedia.com</title>
+</head>
+<body>
+  <style>
+        *,
+        *::after,
+        *::before {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0px;
+        }
+td.img-model h5 {
+    display: none !important;
+}
+
+td.dot-box h5 {
+    display: none !important;
+}
+
+        html {
+            box-sizing: border-box;
+        }
+
+        body {
+            box-sizing: border-box;
+        }
+
+        @media only screen and (max-width: 600px) {
+            .col {
+                width: 100% !important;
+text-align:center !important;
+            }
+
+            br {
+                display: none;
+            }
+
+            .bg {
+                background-position: center;
+            }
+            .img-model{
+                width: 20% !important;
+            }
+
+            .dot-box{
+ width: 20% !important;
+}
+.dot-second{
+    width: 70% !important;
+}
+td.dot-box span {
+    display: none !important;
+}
+
+td.dot-box div {
+    display: none !important;
+}
+td.img-model div {
+    display: none !important;
+}
+        }
+
+        @media only screen and (max-width: 480px) {
+
+            .padding-res {
+                padding: 0px 10px !important;
+            }
+
+            p {
+                font-size: 12px;
+            }
+
+            .mb-10 {
+                margin-bottom: 10px;
+            }
+        }
+    </style><center>
+<table class="bg" style="max-width: 650px; width: 100%; background-color: #073c66; background-image: url('https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/bg-secondary.jpg'); background-repeat: no-repeat; background-size: cover; box-sizing: border-box; background-position: right;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td height="60px">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding-left: 60px;"><a href="https://unilabs.ae/" target="_blank"> <img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/logo.png" alt="Logo" width="180px" /> </a></td>
+</tr>
+<tr>
+<td height="320px">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table class="padding-res" style="padding: 0px 60px; box-sizing: border-box; width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr valign="top">
+<td class="col" style="width: 70%; display: inline-block;">
+<h3 style="font-family: Arial,Helvetica,sans-serif; color: #fff; font-size: 24px; text-align: left; line-height: 1.2; margin: 0px; font-weight: 400; padding-bottom: 5px;">THE FUTURE OF LAB</h3>
+<h2 style="font-family: Arial,Helvetica,sans-serif; color: #ec4133; font-size: 41px; text-align: left; line-height: 1.2; margin: 0px; font-weight: 400; padding-bottom: 10px;">DIGITALIZATION</h2>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; padding-top: 30px; padding-bottom: 30px;">Dear Guest</p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; padding-bottom: 30px; line-height: 1.5;">We would like to invite you to the Future Of Lab <br />Digitalization event which will be held under the <br /> Health and Wellness theme at EXPO 2020.</p>
+<p style="font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; padding-bottom: 30px; line-height: 1.5;"><strong> The Event will cover three main sections of the topic </strong></p>
+</td>
+<td class="col" style="width: 30%; display: inline-block; text-align: center;"><img style="padding-bottom: 10px; display: block; text-align: center; margin: 0 auto;" src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/date-range.png" alt="Date" width="auto" />
+<h3 style="font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; padding-bottom: 20px; line-height: 1.5; font-weight: normal;">9th Feb 2022</h3>
+<img style="padding-bottom: 10px; display: block; text-align: center; margin: 0 auto;" src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/access-time.png" alt="Date" width="auto" />
+<h3 style="font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; padding-bottom: 20px; line-height: 1.5; font-weight: normal;">2:00 PM - 8:00 PM</h3>
+<img style="padding-bottom: 10px; display: block; text-align: center; margin: 0 auto;" src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/location-on.png" alt="Date" width="auto" />
+<h3 style="font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; padding-bottom: 20px; line-height: 1.5; font-weight: normal;">Level 9, Club 2020 <br /> by Emaar - EXPO 2020</h3>
+</td>
+</tr>
+<tr>
+<td height="20px">&nbsp;</td>
+</tr>
+<tr valign="middle">
+<td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="img-model" style="display: inline-block; width: 15%; height: 57px;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/pathology.png" alt="pathology" /></td>
+<td style="display: inline-block; width: 80%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal;">Future of Pathology. How digitalization will speed up finding results and causes.</td>
+</tr>
+<tr>
+<td class="img-model" style="display: inline-block; width: 15%;">
+<div style="display: block; width: 6px; height: 25px; background: #5c829f; margin-left: 26px;">
+<h5>Abc</h5>
+</div>
+</td>
+<td style="display: inline-block; width: 80%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal;">&nbsp;</td>
+</tr>
+<tr>
+<td class="img-model" style="display: inline-block; width: 15%; height: 57px;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/digital.png" alt="pathology" /></td>
+<td style="display: inline-block; width: 80%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal;">Digitalization in healthcare: Breakthroughs and new technologies.</td>
+</tr>
+<tr>
+<td class="img-model" style="display: inline-block; width: 15%;">
+<div style="display: block; width: 6px; height: 25px; background: #5c829f; margin-left: 26px;">
+<h5>Abc</h5>
+</div>
+</td>
+<td style="display: inline-block; width: 80%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal;">&nbsp;</td>
+</tr>
+<tr>
+<td class="img-model" style="display: inline-block; width: 15%; height: 57px;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/medicine.png" alt="pathology" /></td>
+<td style="display: inline-block; width: 80%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal;">Preventative Medicine: Avoiding the problem through digital resources.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20px">&nbsp;</td>
+</tr>
+<tr>
+<td height="30px">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-family: Arial,Helvetica,sans-serif; display: block; background: #EC4026; padding: 20px; font-size: 24px; color: #fff; margin-left: 60px; font-weight: bold;">The Event Agenda</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table style="padding: 0px 60px; width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="dot-box" style="display: inline-block; width: 10%; height: 25px; text-align: center;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/dots.png" alt="pathology" /></td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #f8a52d; margin: 0px; line-height: 1.5; font-weight: normal;">&nbsp;2:30 PM &ndash; 2:45 PM</td>
+</tr>
+<tr valign="top">
+<td class="dot-box" style="display: inline-block; width: 10%;">
+<div style="display: block; width: 6px; height: 85px; background: #5c829f; margin: 0 auto;">
+<h5>Abc</h5>
+</div>
+</td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal; padding-bottom: 10px;">Welcome Speech: <br /> By Mohammed Daoud&ndash; Chief Executive Officer of Unilabs <br /> Middle East</td>
+</tr>
+<tr>
+<td class="dot-box" style="display: inline-block; width: 10%; height: 25px; text-align: center;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/dots.png" alt="pathology" /></td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #f8a52d; margin: 0px; line-height: 1.5; font-weight: normal;">2:45 PM &ndash; 3:00 PM</td>
+</tr>
+<tr valign="top">
+<td class="dot-box" style="display: inline-block; width: 10%;">
+<div style="display: block; width: 6px; height: 55px; background: #5c829f; margin: 0 auto;">
+<h5>Abc</h5>
+</div>
+</td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal; padding-bottom: 10px;">Keynote speaker: <br />By Michiel Boehmer &ndash; Chief Executive Officer of Unilabs</td>
+</tr>
+<tr>
+<td class="dot-box" style="display: inline-block; width: 10%; height: 25px; text-align: center;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/dots.png" alt="pathology" /></td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #f8a52d; margin: 0px; line-height: 1.5; font-weight: normal;">3:00 PM &ndash; 3:30 PM</td>
+</tr>
+<tr valign="top">
+<td class="dot-box" style="display: inline-block; width: 10%;">
+<div style="display: block; width: 6px; height: 80px; background: #5c829f; margin: 0 auto;">
+<h5>Abc</h5>
+</div>
+</td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal; padding-bottom: 10px;"><strong>Presentation: Future of Pathology:</strong> <br /> By Dr. Christian Rebhan Chief Medical &amp; Operations Officer <br />of Unilabs</td>
+</tr>
+<tr>
+<td class="dot-box" style="display: inline-block; width: 10%; height: 25px; text-align: center;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/dots.png" alt="pathology" /></td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #f8a52d; margin: 0px; line-height: 1.5; font-weight: normal;">3:30 PM &ndash; 3:45 PM</td>
+</tr>
+<tr valign="top">
+<td class="dot-box" style="display: inline-block; width: 10%;">
+<div style="display: block; width: 6px; height: 35px; background: #5c829f; margin: 0 auto;">
+<h5>Abc</h5>
+</div>
+</td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal; padding-bottom: 10px;">Coffee Break</td>
+</tr>
+<tr>
+<td class="dot-box" style="display: inline-block; width: 10%; height: 25px; text-align: center;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/dots.png" alt="pathology" /></td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #f8a52d; margin: 0px; line-height: 1.5; font-weight: normal;">3:45 PM &ndash; 4:30 PM</td>
+</tr>
+<tr valign="top">
+<td class="dot-box" style="display: inline-block; width: 10%;">
+<div style="display: block; width: 6px; height: 350px; background: #5c829f; margin: 0 auto;">
+<h5>Abc</h5>
+</div>
+</td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal; padding-bottom: 10px;"><strong>Panel Discussions: The Digitalization in Healthcare:</strong><br /><br /> <strong>Panelist:</strong><br /> <strong> Dr. Christian Rebhan</strong><br /> Chief Medical &amp; Operations Officer - Unilabs<br /><br /> <strong> Dr. Omar Najim</strong> <br /> Executive Director of Executive Affairs and Special Projects office - Department of Health Abu Dhabi - <strong>Ahmad Awada,</strong> Senior Manager Virtual Health - Mediclinic Middle East<br /><br /> <strong>Dr. Mohammad Al Redha</strong> <br /> Director, Project Management Office,<br /> Health Informatics &amp; Smart Health - Dubai Health Authority</td>
+</tr>
+<tr>
+<td class="dot-box" style="display: inline-block; width: 10%; height: 25px; text-align: center;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/dots.png" alt="pathology" /></td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #f8a52d; margin: 0px; line-height: 1.5; font-weight: normal;">4:30 PM &ndash; 5:00 PM</td>
+</tr>
+<tr valign="top">
+<td class="dot-box" style="display: inline-block; width: 10%;">
+<div style="display: block; width: 6px; height: 85px; background: #5c829f; margin: 0 auto;">
+<h5>Abc</h5>
+</div>
+</td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal; padding-bottom: 10px;"><strong>Presentation: Preventive Medicine: </strong> <br /> <strong>Dr. Khulood Alsayegh</strong> <br />Head of Clinical standards and Guidelines - Dubai Health Authority</td>
+</tr>
+<tr>
+<td class="dot-box" style="display: inline-block; width: 10%; height: 25px; text-align: center;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/dots.png" alt="pathology" /></td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #f8a52d; margin: 0px; line-height: 1.5; font-weight: normal;">5:50 PM &ndash; 6:00 PM</td>
+</tr>
+<tr valign="top">
+<td class="dot-box" style="display: inline-block; width: 10%;">
+<div style="display: block; width: 6px; height: 85px; background: #5c829f; margin: 0 auto;">
+<h5>Abc</h5>
+</div>
+</td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal; padding-bottom: 10px;"><strong> Welcome Speech at Swiss Pavilion: </strong><br /> H.E. Massimo Baggi - Ambassador of Switzerland to the United Arab Emirates and Bahrain</td>
+</tr>
+<tr>
+<td class="dot-box" style="display: inline-block; width: 10%; height: 25px; text-align: center;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/dots.png" alt="pathology" /></td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #f8a52d; margin: 0px; line-height: 1.5; font-weight: normal;">6:00 PM &ndash; 8:00 PM</td>
+</tr>
+<tr valign="top">
+<td class="dot-box" style="display: inline-block; width: 10%;">&nbsp;</td>
+<td class="dot-second" style="display: inline-block; width: 85%; font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; line-height: 1.5; font-weight: normal; padding-bottom: 10px;">Dinner and Networking at the rooftop at Swiss Pavilion<br /><br />Due to limited seats, kindly confirm your attendance by clicking on the link below:</td>
+</tr>
+<tr>
+<td height="20px">&nbsp;</td>
+</tr>
+<tr>
+<td><a style="text-decoration: none; font-size: 16px; color: #fff; margin-left: 20px; padding: 15px 60px; background: orangered; text-align: center; border-radius: 6px; display: inline-block; font-family: Arial,Helvetica,sans-serif;" href="https://pixmestudio.com/events/unilabs" target="_blank">RSVP</a></td>
+</tr>
+<tr>
+<td height="20px">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-family: Arial,Helvetica,sans-serif; font-size: 15px; color: #fff; margin: 0px; padding-bottom: 10px; line-height: 1.5; margin-left: 20px; display: block;">Best Regards</td>
+</tr>
+<tr>
+<td height="20px">&nbsp;</td>
+</tr>
+<tr>
+<td class="col mb-10" style="display: inline-block; width: 50%;"><a href="https://unilabs.ae/" target="_blank"> <img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/logo.png" alt="Logo" width="180px" /> </a></td>
+<td class="col" style="display: inline-block; width: 50%; text-align: right;"><img src="https://uploads-cdn.s3.eu-west-1.amazonaws.com/new/04/envelop-footer.png" alt="Logo" width="auto" /></td>
+</tr>
+<tr>
+<td height="30px">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="30px">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<div style="font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-weight: normal; font-stretch: normal; font-style: normal; line-height: 1.3; letter-spacing: normal; text-align: center; color: #fff; max-width: 350px; margin: 0 auto; display: inline-block;">{unsubscribeLink}</div>
+</td>
+</tr>
+<tr>
+<td height="30px">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</center></body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ajax</title>
+</head>
+
+<body>
+    <!-- AjaX Means Asynchornous Javascripts and xml -->
+    <p id="demo">Here We Load Data</p>
+    <button onclick="loadData()">Submit</button>
+    <script>
+        function loadData() {
+            let xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    const res = JSON.parse(this.responseText);
+                    let htmlResult = '<ul>';
+                    res.forEach(res => {
+                        htmlResult += `<li>${res.title}</li>`;
+
+                    });
+                    htmlResult += '</ul>';
+
+                    console.log(htmlResult);
+
+
+
+
+
+                    document.getElementById('demo').innerHTML = htmlResult;
+                } else if (this.readyState == 4 && this.status == 404) {
+                    document.getElementById('demo').innerHTML = 'File Not Found';
+                }
+            }
+
+            xhttp.open('GET', "https://jsonplaceholder.typicode.com/posts", true);
+            xhttp.send();
+
+        }
+    </script>
+
+</body>
+
+</html>

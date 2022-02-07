@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Destruction Array</title>
+    <script>
+        let users = ['Yahoo Baba', 25, "Dehli", [
+            "Male", 900000
+        ]];
+        let [name, age, city, [gender, salary]] = users;
+        console.log(name, age, city, gender, salary);
+
+        function users1() {
+            return ["Yahoo Baba", 20, "BBA"];
+        }
+
+        let [names, ages, coursers] = users1();
+
+        console.log(names, ages, coursers);
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>

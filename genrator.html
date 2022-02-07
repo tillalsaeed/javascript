@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Genrator Html</title>
+    <script>
+        function* test() {
+            console.log('First Message');
+            yield "First";
+            console.log('Second Message');
+
+            yield "Second";
+            console.log('Third Message');
+
+            yield "Third";
+        }
+        let g = test();
+        console.log(g.next());
+        console.log(g.next());
+        console.log(g.next());
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
